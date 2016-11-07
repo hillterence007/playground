@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack & http-server -p 8080",
+    "test": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3"
+  }
+}
